@@ -1,3 +1,13 @@
-.idea/.idea.Workshop_C/.idea/vcs.xml
-WorkShop_CTests/bin/Debug/net7.0/JetBrains.Annotations.dll
-Workshop_C/obj/rider.project.model.nuget.info
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/.idea.Workshop_C.iml
+/contentModel.xml
+/projectSettingsUpdater.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
